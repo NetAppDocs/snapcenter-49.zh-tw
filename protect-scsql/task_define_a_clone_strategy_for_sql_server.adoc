@@ -1,0 +1,53 @@
+---
+permalink: protect-scsql/task_define_a_clone_strategy_for_sql_server.html 
+sidebar: sidebar 
+keywords: clone strategy 
+summary: 定義複製策略可讓您成功複製資料庫。 
+---
+= 定義SQL Server的複製策略
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/
+
+
+[role="lead"]
+定義複製策略可讓您成功複製資料庫。
+
+. 檢閱與複製作業相關的限制。
+. 決定所需的複本類型。
+
+
+
+
+== 複製作業的限制
+
+在複製資料庫之前、您應該瞭解複製作業的限制。
+
+* 如果您使用的 Oracle 版本從 11.2.0.4 到 12.1.0.1 、則會執行複製作業
+執行 _renamedg_ 命令時掛起狀態。您可以套用 Oracle 修補程式 19544733
+以修正此問題。
+* 從直接附加到主機的 LUN 複製資料庫（例如、使用）
+Windows 主機上的 Microsoft iSCSI 啟動器）至 VMDK 或同一主機上的 RDM LUN
+不支援 Windows 主機或其他 Windows 主機、反之亦然。
+* Volume掛載點的根目錄不能是共享目錄。
+* 如果您將包含複本的LUN移至新磁碟區、則無法刪除複本。
+
+
+
+
+== 複製作業類型
+
+您可以使用SnapCenter 支援功能來複製SQL Server資料庫備份或正式作業資料庫。
+
+* 從資料庫備份複製
++
+複製的資料庫可作為開發新應用程式的基礎、並協助隔離
+在正式作業環境中發生的應用程式錯誤。也可以是複製的資料庫
+用於從軟資料庫錯誤中恢復。
+
+* 複製生命週期
++
+您可以使用 SnapCenter 來排程在正式作業時會發生的週期性複製工作
+資料庫不忙碌。
+
+
