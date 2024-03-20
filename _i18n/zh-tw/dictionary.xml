@@ -8710,4 +8710,8 @@ _\https ： &lt;SnapCenter_IP_address_or_name&gt; ： &lt;SnapCenter_port&gt; / 
   <block id="66533c4e3134a6b220ad1336cd288c49" category="sidebar">設定角色型存取控制（RBAC）</block>
   <block id="5d4caff07857398d579cdda92ce3f34f" category="sidebar">配置您的儲存系統</block>
   <block id="0daccd45abdac281e7508c5de0fa492c" category="sidebar">在Windows主機上配置儲存設備</block>
+  <block id="4db35e04fa48549bd85b1a6d4d43fb09" category="list-text">SnapCenter 4.9 P1 及更新版本支援在 VMware Cloud on Amazon Web Services （ AWS ）軟體定義資料中心（ SDDC ）環境中保護 Oracle 和 Microsoft SQL 工作負載。</block>
+  <block id="38012dbc6542f17135111019d1839fa1" category="inline-link">在 AWS SDDC 環境中使用 VMware Cloud 中的 NetApp SnapCenter 來保護 Oracle 、 MS SQL 工作負載</block>
+  <block id="0ed5dc7c29240e260dcaa51a555687fb" category="paragraph">如需詳細資訊、請參閱
+<block ref="201ce3916702c203a3d45750d51a4039" category="inline-link-rx"></block>。</block>
 </blocks>
