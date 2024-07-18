@@ -5319,7 +5319,6 @@ Windows 主機：</block>
   <block id="6347721d31864738b0e7a03f5553e69b" category="section-title">AIX主機需求</block>
   <block id="fed30036a3caffc826b4e66f434f67ea" category="paragraph">在安裝SnapCenter 適用於AIX的支援套件之前、您應確保主機符合要求。</block>
   <block id="cddfaa01c32e2362546c78364751248b" category="admonition">作爲適用於AIX的支援不支援並行Volume群組的《支援UNIX的程式集》外掛程式。SnapCenter SnapCenter</block>
-  <block id="895327977020e495debf0b375c7541d8" category="paragraph">AIX 6.1 或更新版本</block>
   <block id="974c2262615af73433567515efbb80e9" category="paragraph">4 GB</block>
   <block id="5dcb853141d33f26c1df2f75da07200a" category="list-text">Java 1.8.x（64位元）IBM Java</block>
   <block id="3fe85b9e16f08cb63e5aaa5c215097d7" category="list-text">Java 11（64位元）IBM Java</block>
@@ -8714,4 +8713,5 @@ _\https ： &lt;SnapCenter_IP_address_or_name&gt; ： &lt;SnapCenter_port&gt; / 
   <block id="38012dbc6542f17135111019d1839fa1" category="inline-link">在 AWS SDDC 環境中使用 VMware Cloud 中的 NetApp SnapCenter 來保護 Oracle 、 MS SQL 工作負載</block>
   <block id="0ed5dc7c29240e260dcaa51a555687fb" category="paragraph">如需詳細資訊、請參閱
 <block ref="201ce3916702c203a3d45750d51a4039" category="inline-link-rx"></block>。</block>
+  <block id="ad569cc1cca820033bb20ffe1d5bc4a5" category="paragraph">部分7.1或更新版本AIX</block>
 </blocks>
