@@ -84,7 +84,7 @@ NOTE: 資源群組名稱不得超過250個字元。
 
 |===
 +
-image:../media/application_settings.gif[""]
+image:../media/application_settings.gif["應用程式設定"]
 
 .. 按一下「*指令碼*」箭頭、然後輸入「靜止」、「Snapshot複本」及「靜止」等作業的pre-POST命令。您也可以輸入要在發生故障時結束之前執行的預先命令。
 .. 按一下「*自訂組態*」箭頭、然後輸入使用此資源進行所有資料保護作業所需的自訂金鑰值配對。
@@ -199,12 +199,12 @@ NOTE: SAP HANA Linux外掛系統支援自訂金鑰值配對、但註冊為集中
 .. 從下拉式清單中選取一或多個原則。
 +
 
-NOTE: 您也可以按一下*來建立原則image:../media/add_policy_from_resourcegroup.gif[""]*。
+NOTE: 您也可以按一下建立原則 image:../media/add_policy_from_resourcegroup.gif["從資源群組新增原則"]。
 
 +
 原則列於「設定所選原則的排程」區段。
 
-.. 在「Configure排程」欄中、按一下*image:../media/add_policy_from_resourcegroup.gif[""]*針對您要設定的原則。
+.. 在「設定排程」欄中，按一下image:../media/add_policy_from_resourcegroup.gif["從資源群組新增原則"]您要設定的原則。
 .. 在「新增原則_policy_name_的排程」對話方塊中、設定排程、然後按一下「*確定*」。
 +
 其中policy_name是您選取的原則名稱。

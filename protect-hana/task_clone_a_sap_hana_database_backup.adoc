@@ -20,10 +20,9 @@ summary: 您可以使用SnapCenter 支援功能來複製備份。您可以從主
 * 目標實體複製伺服器應具有與目標實體複製SID欄位相同的SAP HANA執行個體SID。
 * 對於preclone或POST clone命令、您應該從下列路徑檢查外掛程式主機上可用的命令清單中是否存在命令：
 +
-Windows：_C:\Program Files\NetApp\SnapCenter\Snapcenter Plug-in Creator\etc\allowed_commands_list.txt_
+** Windows ： _C:\Program NetApp SnapCenter ， SnapCenter Plug-in Creator\etc\allowed_commands.config_ 。
+** 適用於 Linux ： /opt/novell/SCC/etc/allowed_commands.config_ SnapCenter 。
 
-+
-對於Linux：_/var/opt/snapcenter/scc/sited_commands_list.txt_
 
 
 

@@ -52,10 +52,7 @@ summary: 支援簡單、集中化、可擴充的平台、可為在混合雲任�
 資料保護功能可支援Microsoft Exchange Server、Microsoft SQL Server、Linux或AIX上的Oracle資料庫、SAP HANA資料庫、ONTAP 以及執行於更新系統上的Windows主機檔案系統。
 
 +
-其他標準或自訂應用程式和資料庫也支援資料保護、提供架構以建立使用者定義SnapCenter 的功能表外掛程式。如此一來、其他應用程式和資料庫就能從同一個單一窗口進行資料保護。藉由運用此架構、NetApp已在SnapCenter NetApp Automation Store上針對IBM DB2、MongoDB、MySQL等發佈了適用的功能不全的外掛程式。
-
-+
-https://automationstore.netapp.com/home.shtml["NetApp儲存自動化商店"^]
+其他標準或自訂應用程式和資料庫也支援資料保護、提供架構以建立使用者定義SnapCenter 的功能表外掛程式。如此一來、其他應用程式和資料庫就能從同一個單一窗口進行資料保護。藉由運用此架構， NetApp 已針對 IBM DB2 ， MongoDB ， MySQL 等產品推出 SnapCenter 自訂外掛程式。
 
 * 原則型備份
 +
@@ -85,7 +82,7 @@ https://automationstore.netapp.com/home.shtml["NetApp儲存自動化商店"^]
 如需REST API的詳細資訊、請參閱 https://docs.netapp.com/us-en/snapcenter/sc-automation/overview_rest_apis.html["REST API總覽"]。
 
 +
-如需Windows Cmdlet的詳細資訊、請參閱 https://library.netapp.com/ecm/ecm_download_file/ECMLP2886205["《軟件指令程式參考指南》SnapCenter"^]。
+如需 Windows Cmdlet 的詳細資訊，請參閱 https://docs.netapp.com/us-en/snapcenter-cmdlets-49/index.html["Cmdlet參考指南"^]。
 
 +
 如需UNIX命令的詳細資訊、請參閱 https://library.netapp.com/ecm/ecm_download_file/ECMLP2886206["《軟件命令參考指南》SnapCenter"^]。
@@ -118,7 +115,7 @@ https://automationstore.netapp.com/home.shtml["NetApp儲存自動化商店"^]
 
 支援多站台資料中心。SnapCenter支援的伺服器和外掛程式主機可能位於不同的地理位置。SnapCenter
 
-image::../media/snapcenter_architecture.gif[架構SnapCenter]
+image::../media/snapcenter_architecture.gif[SnapCenter 架構]
 
 
 
@@ -158,7 +155,7 @@ NOTE: 適用於UNIX的DB2外掛程式不是獨立式外掛程式、無法獨立�
 
 * 不適用的自訂外掛程式SnapCenter
 +
-自訂外掛程式受到社群支援、可從下載 https://automationstore.netapp.com/home.shtml["NetApp儲存自動化商店"^]。
+社群支援自訂外掛程式。
 
 
 
@@ -266,7 +263,6 @@ Linux或Windows
  a| 
 自訂外掛程式
  a| 
-https://automationstore.netapp.com/home.shtml["NetApp儲存自動化商店"^]
  a| 
 對於檔案系統備份、Windows外掛程式
  a| 
@@ -348,8 +344,6 @@ SAN原生裝置、檔案系統及以SAN裝置為建置基礎的LVM配置均受�
 * 支援在另一個磁碟區上建立備份集的鏡射複本、並執行磁碟對磁碟備份複寫。
 * 同時支援Windows和Linux環境。在Windows環境中、透過自訂外掛程式的自訂應用程式可選擇性地使用SnapCenter 適用於Microsoft Windows的還原外掛程式來進行檔案系統一致的備份。
 
-
-MySQL、DB2和MongoDB自訂插件範例SnapCenter 可從下載 https://automationstore.netapp.com/home.shtml["NetApp儲存自動化商店"^]。
 
 
 NOTE: MySQL、DB2和MongoDB自訂外掛程式僅透過NetApp社群提供支援。

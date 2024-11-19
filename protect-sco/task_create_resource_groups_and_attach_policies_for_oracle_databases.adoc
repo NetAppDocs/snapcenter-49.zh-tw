@@ -20,7 +20,7 @@ summary: 資源群組是一個容器、您可以在其中新增要備份和保�
 
 下圖說明資料庫的資源、資源群組和原則之間的關係：
 
-image::../media/sco_resourcegroup_policy.gif[SCO資源群組原則]
+image::../media/sco_resourcegroup_policy.gif[資源群組原則]
 
 .步驟
 . 在左側導覽窗格中、選取 * 資源 * 、然後從清單中選取適當的外掛程式。

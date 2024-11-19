@@ -41,12 +41,12 @@ summary: 如果某個資源尚未納入任何資源群組、您可以從「資�
 +
 .. 在原則區段中、從下拉式清單中選取一或多個原則。
 +
-您可以選取 * 來建立原則image:../media/add_policy_from_resourcegroup.gif[""]*啟動原則精靈。
+您可以選取以啟動原則精靈來建立image:../media/add_policy_from_resourcegroup.gif["從資源群組新增原則"]原則。
 
 +
 在「*設定所選原則的排程*」區段中、會列出所選原則。
 
-.. 選取*image:../media/add_policy_from_resourcegroup.gif[""]*在您要為其設定排程的原則的「設定排程」欄中。
+.. 針對您要設定排程的原則，在「設定排程」欄中選取image:../media/add_policy_from_resourcegroup.gif["從資源群組新增原則"]。
 .. 在*新增原則排程*中 `policy_name` 對話方塊中、設定排程、然後選取 * 確定 * 。
 +
 請按這裡 `policy_name` 是您選取的原則名稱。
@@ -68,7 +68,7 @@ summary: 如果某個資源尚未納入任何資源群組、您可以從「資�
 NOTE: 驗證伺服器版本應等於或高於主資料庫所在的SQL Server版本。
 
 .. 選取*「Load二線定位器」以驗證二線*上的備份、以驗證二線儲存系統上的備份。
-.. 選取您要設定驗證排程的原則、然後選取 *image:../media/add_policy_from_resourcegroup.gif[""]*。
+.. 選擇要爲其配置驗證日程安排的策略，然後選擇image:../media/add_policy_from_resourcegroup.gif["從資源群組新增原則"]。
 .. 在「新增驗證排程_policy_name_」對話方塊中、執行下列動作：
 +
 |===

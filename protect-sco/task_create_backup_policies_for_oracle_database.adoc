@@ -107,7 +107,7 @@ NOTE: 您必須確保RAC環境中的所有節點都能存取所有歸檔記錄�
 
 |===
 +
-image:../media/sco_backuppolicy_prunning.gif[""]
+image:../media/sco_backuppolicy_prunning.gif["剪除備份原則"]
 
 
 

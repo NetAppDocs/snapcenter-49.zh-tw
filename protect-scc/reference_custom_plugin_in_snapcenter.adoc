@@ -203,7 +203,7 @@ Plugin_descriptor.xml 檔案至資料夾並加以壓縮。
 
 
 
-https://library.netapp.com/ecm/ecm_download_file/ECMLP2886205["《軟件指令程式參考指南》SnapCenter"^]。
+https://docs.netapp.com/us-en/snapcenter-cmdlets-49/index.html["《軟件指令程式參考指南》SnapCenter"^]。
 
 
 

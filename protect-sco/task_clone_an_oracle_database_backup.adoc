@@ -201,7 +201,7 @@ Oracle主目錄、使用者名稱和群組詳細資料會自動從來源資料�
 
 .. 在「資料庫參數設定」區段中、修改用於初始化資料庫的預先填入資料庫參數值。
 +
-您可以按一下*來新增其他參數image:../media/add_policy_from_resourcegroup.gif[""]*。
+您可以按一下新增其他參數image:../media/add_policy_from_resourcegroup.gif["從資源群組新增原則"]。
 
 +
 如果您使用的是Oracle Standard Edition、且資料庫以歸檔記錄模式執行、或想要從歸檔重作記錄還原資料庫、請新增參數並指定路徑。
