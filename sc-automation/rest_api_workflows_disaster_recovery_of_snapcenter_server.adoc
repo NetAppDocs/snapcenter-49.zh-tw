@@ -137,4 +137,4 @@ NOTE: 如果 VM 毀損、請開啟另一個 VM 或名稱相同的機器、並以
 
 |===
 .相關資訊
-請參閱 link:https://www.youtube.com/watch?v=Nbr_wm9Cnd4&list=PLdXI3bZJEw7nofM6lN44eOe4aOSoryckg["災難恢復API"^] 影片：
+觀看 link:https://www.youtube.com/watch?v=_8NG-tTGy8k&list=PLdXI3bZJEw7nofM6lN44eOe4aOSoryckg["災難恢復API"^] 影片。

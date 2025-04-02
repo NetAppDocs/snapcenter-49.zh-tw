@@ -37,7 +37,6 @@
   <block id="9f2c74676fb5b339a2fd4a0ccd75bd1e" category="list-text">從SnapCenter DR備份的「SQL Server適用的支援程式」資料夾匯入Windows和SQL排程。</block>
   <block id="30f60d67f457bb040dffde52197a54da" category="paragraph-title">相關資訊</block>
   <block id="27e7993c4841ae5fd670cdd945ccb96d" category="inline-link-macro">災難恢復API</block>
-  <block id="ab9238ca6f628634f6f6f2cf63502cdb" category="paragraph">請參閱 <block ref="44de5c9fafab2e4e76e19e3717abc2e2" category="inline-link-macro-rx"></block> 影片：</block>
   <block id="d2323db6aa3f6333b1375db7f025bd4e" category="summary">您可以使用PowerShell Cmdlet來備份SQL Server資料庫或Windows檔案系統。這包括備份SQL Server資料庫或Windows檔案系統、包括與SnapCenter 該伺服器建立連線、探索SQL Server資料庫執行個體或Windows檔案系統、新增原則、建立備份資源群組、備份及驗證備份。</block>
   <block id="c90de0347e94ade70c96034e2ffca3ba" category="list-text">您必須準備好PowerShell環境、才能執行PowerShell Cmdlet。</block>
   <block id="38d7f66964588305ed5bee44db007183" category="list-text">您必須新增儲存系統連線並建立認證。</block>
@@ -3016,7 +3015,6 @@ NetApp ® 單一信箱恢復已於 2023 年 5 月 12 日結束可用度（ EOA �
   <block id="f367d650e57088caf7b808e01235016d" category="inline-link">如何使用SnapCenter NetApp從SMBR的二線儲存設備還原</block>
   <block id="41b4c689a8b0e3ba8bfecb2a1e608e46" category="list-text"><block ref="41b4c689a8b0e3ba8bfecb2a1e608e46" category="inline-link-rx"></block></block>
   <block id="f004280f6db6ea5f9302c9851388d751" category="inline-link">使用SMBR從SnapVault 功能中還原Microsoft Exchange郵件</block>
-  <block id="1b0fb59a5bc951f7dc82cb43fe362145" category="list-text"><block ref="00a76af185a73b84e54e96058031aef5" category="inline-link-rx"></block></block>
   <block id="a60fa87356b70c5ce00706b76533d56c" category="summary">您應該從SnapCenter 「版本資訊」使用者介面中安裝Exchange外掛程式。不過、如果您因為某些原因無法執行、您可以從Windows命令列以無訊息模式執行外掛程式的Exchange安裝程式。</block>
   <block id="d09d97061d337ca456268467edcaf423" category="doc">從命令列以無訊息方式安裝SnapCenter Exchange的功能</block>
   <block id="cd61155a270b0e3cba1a35778af0b9ce" category="list-text">您必須備份Microsoft Exchange Server資源。</block>
@@ -8711,4 +8709,6 @@ _\https ： &lt;SnapCenter_IP_address_or_name&gt; ： &lt;SnapCenter_port&gt; / 
   <block id="df572e132ba2f886e42786dc14efa7eb" category="paragraph">您可以執行_Get-Help命令name_來取得可搭配Cmdlet使用之參數及其說明的相關資訊。或者，您也可以參閱<block ref="0f4700d6d1275866f1a52a4d6a58d871" category="inline-link-rx"></block>。</block>
   <block id="86e30ad0a02c8fe2c3f0a07c63314b32" category="image-alt">升級 SnapCenter 工作流程</block>
   <block id="d127c7070231e882bd97e8f2760d0a4f" category="sidebar">軟件文件SnapCenter</block>
+  <block id="c23d56866a5b11fd0d8dc189fcf21298" category="list-text"><block ref="341e3fddad4b27511133b6917a75bb8a" category="inline-link-rx"></block></block>
+  <block id="57cf9c4ee485623172a5c60cbee423a4" category="paragraph">觀看 <block ref="96716f545c5cf1a209bf10c1a798ce38" category="inline-link-macro-rx"></block> 影片。</block>
 </blocks>
